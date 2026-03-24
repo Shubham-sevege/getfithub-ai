@@ -1,0 +1,17 @@
+getfithub-ai/
+│
+├── README.md
+├── app.py / server.js
+├── requirements.txt / package.json
+│
+├── data/
+│   └── diet_data.json
+│
+├── src/
+│   ├── logic.py
+│   └── recommendation.py
+│
+├── frontend/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
