@@ -52,8 +52,7 @@
 ## 👨‍💻 Author
 
 Shubham
-B.Tech (Digital Marketing + Tech Enthusiast)
-Aspiring AI & Data Science Developer
+B.Tech Aspiring AI & Data Science Developer
 
 ---
 
